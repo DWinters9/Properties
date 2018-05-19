@@ -1,0 +1,70 @@
+body {
+  background-color: darkblue;
+  color: white;
+  font-size: 16px; /* 17 px */
+  line-height: 100%
+}
+
+nav {
+  background-color: rgba(0,0,0,.5);
+  float: left;
+  position: fixed;
+  width: 100%;
+}
+
+h1 {
+  font-size: 28px; /* 26px */
+  font-style: Garamond, Serif, sans-serif;
+  line-height: 100%;
+}
+
+h3 {
+  font-size: 19px;
+  line-height: 20px;
+
+}
+
+.logo {
+  margin: 20px;
+  width: 45px;
+}
+
+.large-pic {
+  width: 100%;
+}
+
+.medium-pic {
+  width: 70%;
+}
+
+.left, .right {
+  float: left;
+  width: 50%;
+
+}
+
+.right {
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  float: right;
+  text-decoration: none;
+}
+
+li {
+  float: right;
+  padding: 30px;
+  text-decoration: none;
+}
+
+article {
+  padding-top: 100px;
+
+}
+
+.container {
+  margin: 0 auto;
+  width: 50%;
+}
